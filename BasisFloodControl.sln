@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisFloodControl", "BasisFloodControl\BasisFloodControl\BasisFloodControl.csproj", "{08BAD04A-0C10-46B1-B537-575949C23DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisFloodControl.ServiceModel", "BasisFloodControl\BasisFloodControl.ServiceModel\BasisFloodControl.ServiceModel.csproj", "{D23AA163-2C7E-4CEB-A33F-2FED51127587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisFloodControl.ServiceInterface", "BasisFloodControl\BasisFloodControl.ServiceInterface\BasisFloodControl.ServiceInterface.csproj", "{9AA146FB-6CF8-4E5E-A400-EE6E62F83BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisFloodControl.Logic", "BasisFloodControl\BasisFloodControl.Logic\BasisFloodControl.Logic.csproj", "{2C1392C2-190D-4FFF-982D-3CDA134A8CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisFloodControl.Route", "BasisFloodControl\BasisFloodControl.Route\BasisFloodControl.Route.csproj", "{636425C3-4438-46A8-BD08-23B2863CD4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasisFloodControl.Model", "BasisFloodControl\BasisFloodControl.Model\BasisFloodControl.Model.csproj", "{71F95C12-8983-49B9-9D20-DF16BE8A24F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BAD04A-0C10-46B1-B537-575949C23DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BAD04A-0C10-46B1-B537-575949C23DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BAD04A-0C10-46B1-B537-575949C23DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BAD04A-0C10-46B1-B537-575949C23DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23AA163-2C7E-4CEB-A33F-2FED51127587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23AA163-2C7E-4CEB-A33F-2FED51127587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23AA163-2C7E-4CEB-A33F-2FED51127587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23AA163-2C7E-4CEB-A33F-2FED51127587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA146FB-6CF8-4E5E-A400-EE6E62F83BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA146FB-6CF8-4E5E-A400-EE6E62F83BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA146FB-6CF8-4E5E-A400-EE6E62F83BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA146FB-6CF8-4E5E-A400-EE6E62F83BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1392C2-190D-4FFF-982D-3CDA134A8CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1392C2-190D-4FFF-982D-3CDA134A8CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1392C2-190D-4FFF-982D-3CDA134A8CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1392C2-190D-4FFF-982D-3CDA134A8CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636425C3-4438-46A8-BD08-23B2863CD4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636425C3-4438-46A8-BD08-23B2863CD4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636425C3-4438-46A8-BD08-23B2863CD4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636425C3-4438-46A8-BD08-23B2863CD4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F95C12-8983-49B9-9D20-DF16BE8A24F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F95C12-8983-49B9-9D20-DF16BE8A24F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F95C12-8983-49B9-9D20-DF16BE8A24F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F95C12-8983-49B9-9D20-DF16BE8A24F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {474EBA91-29FE-4FA7-8DF2-E972244F31B7}
+	EndGlobalSection
+EndGlobal

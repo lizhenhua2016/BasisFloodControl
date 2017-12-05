@@ -1,0 +1,5 @@
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.Logic\bin\Debug\BasisFloodControl.Logic.dll
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.Logic\bin\Debug\BasisFloodControl.Logic.pdb
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.Logic\obj\Debug\BasisFloodControl.Logic.csproj.CoreCompileInputs.cache
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.Logic\obj\Debug\BasisFloodControl.Logic.dll
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.Logic\obj\Debug\BasisFloodControl.Logic.pdb
