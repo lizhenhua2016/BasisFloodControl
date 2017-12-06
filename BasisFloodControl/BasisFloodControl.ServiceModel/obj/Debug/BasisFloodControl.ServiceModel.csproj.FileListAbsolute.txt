@@ -6,3 +6,11 @@ E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodCon
 E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.csproj.CoreCompileInputs.cache
 E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.dll
 E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.pdb
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\bin\Debug\BasisFloodControl.ServiceModel.dll
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\bin\Debug\BasisFloodControl.ServiceModel.pdb
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.csprojResolveAssemblyReference.cache
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.csproj.CoreCompileInputs.cache
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.dll
+E:\WorkPlace\BasisFloodControl\BasisFloodControl\BasisFloodControl.ServiceModel\obj\Debug\BasisFloodControl.ServiceModel.pdb

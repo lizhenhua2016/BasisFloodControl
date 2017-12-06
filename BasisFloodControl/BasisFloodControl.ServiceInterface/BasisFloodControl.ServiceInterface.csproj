@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppGetRegService.cs" />
     <Compile Include="MyServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -62,6 +63,18 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BasisFloodControl.Logic\BasisFloodControl.Logic.csproj">
+      <Project>{2C1392C2-190D-4FFF-982D-3CDA134A8CF5}</Project>
+      <Name>BasisFloodControl.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BasisFloodControl.Model\BasisFloodControl.Model.csproj">
+      <Project>{71F95C12-8983-49B9-9D20-DF16BE8A24F9}</Project>
+      <Name>BasisFloodControl.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BasisFloodControl.Route\BasisFloodControl.Route.csproj">
+      <Project>{636425C3-4438-46A8-BD08-23B2863CD4F6}</Project>
+      <Name>BasisFloodControl.Route</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BasisFloodControl.ServiceModel\BasisFloodControl.ServiceModel.csproj">
       <Project>{d23aa163-2c7e-4ceb-a33f-2fed51127587}</Project>
       <Name>BasisFloodControl.ServiceModel</Name>
